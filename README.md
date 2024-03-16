@@ -29,5 +29,5 @@ I am really interested on research and development of AI and ML. I've enjoyed to
 
 ### Reach me 📮
 <a href="https://www.linkedin.com/in/dimaszudafa/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dimaszudafa@gmail.com"><img alt="Gmail" title="LinkedIn" src="https://cdn.svgporn.com/logos/google-gmail.svg?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/dimas_zudafa"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:dimaszudafa@gmail.com"><img alt="Gmail" title="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/dimas_zudafa"><img src="https://img.shields.io/badge/-@dimaszuda_fa_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
