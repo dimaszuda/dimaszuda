@@ -18,7 +18,8 @@ I am really interested on research and development of AI and ML. I've enjoyed to
 <a href="https://github.com/dimaszuda">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimaszuda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaszuda&layout=compact"/>
-
+</p>
+  
 ### Tech Stack 🚀
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn.svgporn.com/logos/python.svg"></a>
 <a href="#"><img align="left" alt="Tensorlow" title="Tensorflow" width="21px" src="https://cdn.svgporn.com/logos/tensorflow.svg"></a>
@@ -26,6 +27,7 @@ I am really interested on research and development of AI and ML. I've enjoyed to
 <a href="#"><img align="left" alt="Hugging Face" title="Hugging Face" width="21px" src="https://cdn.svgporn.com/logos/hugging-face-icon.svg"></a>
 <a href="#"><img align="left" alt="Fast API" title="Fast API" width="21px" src="https://cdn.svgporn.com/logos/fastapi-icon.svg"></a>
 <a href="#"><img align="left" alt="Chroma" title="Chroma" width="21px" src="https://cdn.svgporn.com/logos/chroma.svg"></a>
+<br>
 
 ### Reach me 📮
 <a href="https://www.linkedin.com/in/dimaszudafa/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
