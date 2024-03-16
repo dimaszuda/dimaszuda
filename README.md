@@ -1,16 +1,33 @@
-### Hi there 👋
 
-<!--
-**dimaszuda/dimaszuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'am Dimas Zuda! 👋
 
-Here are some ideas to get you started:
+An Independent and enthusiastic AI Engineer who fascinated building AI project 🙆‍♂️🖖
+Now, I am working as AI Engineer at PT Kognitif Skema Indonesia. 💻
+I am really interested on research and development of AI and ML. I've enjoyed to learn and research AI using python as main language.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 👲
+- 🔭 I’m currently working on PT Kognitif Skema Indonesia as AI Engineer
+- 🌱 I’m currently learning the latest AI and ML Development
+- 🛣 I am Physics Education Graduate from Sebelas Maret University 👨‍🎓
+- 💬 Feel free to ask me about AI and ML
+- 📫 Reach me on: dimaszudafa@gmail.com
+- 😄 Pronouns: dims/dim
+
+### Github Statistic 〽🌟
+<p align="left">
+<a href="https://github.com/dimaszuda">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimaszuda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaszuda&layout=compact"/>
+
+### Tech Stack 🚀
+<a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://cdn.svgporn.com/logos/python.svg"></a>
+<a href="#"><img align="left" alt="Tensorlow" title="Tensorflow" width="21px" src="https://cdn.svgporn.com/logos/tensorflow.svg"></a>
+<a href="#"><img align="left" alt="PyTorch" title="PyTorch" width="21px" src="https://cdn.svgporn.com/logos/pytorch-icon.svg"></a>
+<a href="#"><img align="left" alt="Hugging Face" title="Hugging Face" width="21px" src="https://cdn.svgporn.com/logos/hugging-face-icon.svg"></a>
+<a href="#"><img align="left" alt="Fast API" title="Fast API" width="21px" src="https://cdn.svgporn.com/logos/fastapi-icon.svg"></a>
+<a href="#"><img align="left" alt="Chroma" title="Chroma" width="21px" src="https://cdn.svgporn.com/logos/chroma.svg"></a>
+
+### Reach me 📮
+<a href="https://www.linkedin.com/in/dimaszudafa/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dimaszudafa@gmail.com"><img alt="Gmail" title="LinkedIn" src="https://cdn.svgporn.com/logos/google-gmail.svg?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/dimas_zudafa"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
