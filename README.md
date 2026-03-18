@@ -2,11 +2,11 @@
 ### Hi there, I'am Dimas Zuda! 👋
 
 An Independent and enthusiastic AI Engineer who fascinated building AI project 🙆‍♂️🖖
-Now, I am working as AI Engineer at PT Kognitif Skema Indonesia 💻. 
+Now, I am working as AI Engineer and Technical Consultant at PT Metrodata Electronics 💻. 
 I am really interested on research and development of AI and ML. I've enjoyed to learn and research AI using Python as main language.
 
 ### About me 👲
-- 🔭 I’m currently working on PT Kognitif Skema Indonesia as AI Engineer
+- 🔭 I’m currently working on PT Metrodata Electronics as AI Engineer and Technical Consultant
 - 🌱 I’m currently learning the latest AI and ML Development
 - 🛣 I am Physics Education Graduate from Sebelas Maret University 👨‍🎓
 - 💬 Feel free to ask me about AI and ML
