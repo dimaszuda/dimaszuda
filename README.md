@@ -1,9 +1,7 @@
 
 ### Hi there, I'am Dimas Zuda! 👋
 
-An Independent and enthusiastic AI Engineer who fascinated building AI project 🙆‍♂️🖖
-Now, I am working as AI Engineer and Technical Consultant at PT Metrodata Electronics 💻. 
-I am really interested on research and development of AI and ML. I've enjoyed to learn and research AI using Python as main language.
+AI Engineer with deep understanding in Machine Learning and Artificial Intelligence. Experienced in research and development of AI projects, including AI Agent. Accustomed to working with Python as the main language and quickly adapt to new technologies. I am a Google certified Professional Machine Learning Engineer. I am able to work collaboratively in cross-disciplinary teams 🙆‍♂️🖖. Now, I am working as AI Engineer and Technical Consultant at PT Metrodata Electronics 💻.
 
 ### About me 👲
 - 🔭 I’m currently working on PT Metrodata Electronics as AI Engineer and Technical Consultant
