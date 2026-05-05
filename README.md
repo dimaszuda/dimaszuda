@@ -33,10 +33,22 @@ Currently working as **AI Engineer & Technical Consultant** at PT Metrodata Elec
 
 ## 🚀 Tech Stack
 
+**Languages & Core Tools**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,linux,vscode&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,vscode,linux,git,docker,kubernetes&perline=6" />
+</p>
+
+**AI / ML Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,postgres,redis,aws&perline=6" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 ---
@@ -44,8 +56,11 @@ Currently working as **AI Engineer & Technical Consultant** at PT Metrodata Elec
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dimaszuda&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaszuda&layout=compact&langs_count=8&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimaszuda&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dimaszuda&theme=gruvbox" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimaszuda&theme=gruvbox" />
 </p>
 
 <p align="center">
