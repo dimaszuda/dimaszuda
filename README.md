@@ -51,6 +51,16 @@ Currently working as **AI Engineer & Technical Consultant** at PT Metrodata Elec
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
+**Google Cloud Platform**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Storage-AECBFA?style=for-the-badge&logo=googlecloud&logoColor=black" />
+</p>
+
 ---
 
 ## 📊 GitHub Statistics
@@ -58,6 +68,7 @@ Currently working as **AI Engineer & Technical Consultant** at PT Metrodata Elec
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimaszuda&theme=gruvbox" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dimaszuda&theme=gruvbox" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dimaszuda&theme=gruvbox" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimaszuda&theme=gruvbox" />
